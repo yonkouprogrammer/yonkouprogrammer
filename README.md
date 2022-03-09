@@ -36,7 +36,7 @@ src="https://img.icons8.com/fluency/48/000000/adobe-illustrator.png" /><img alig
 
 ---
 
-<img align="left" alt="Quippv" src="https://github-readme-stats.vercel.app/api?username=yonkouprogrammer&show_icons=true&hide_border=true" />
+![Wawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonkouprogrammer&theme=gruvbox&show_icons=true)
 
 
 ### Connect with me:
