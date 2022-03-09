@@ -16,21 +16,6 @@ src="https://img.icons8.com/fluency/48/000000/adobe-illustrator.png" /><img alig
 <br />
 <br />
 
-### Connect with me:
-[<img align="left" alt="onefig | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/onefig/)
-[<img align="left" alt="Wawan Firgiawan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/wawanfirgiawan "@wawanfirgiawan")
-[<img align="left" alt="wawanfirgiawan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/devhumayun)
-[<img align="left" alt="yonkouprogrammer | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/yonkouprogrammer)
-[<img align="left" alt="developerhumayun | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yonkouprogrammer@gmail.com)
-
-<br />
-
-### My Project:
-
-- [Coming-Soon](https://www.jasakite.com/)
-
-<br />
-
 ---
 
 ### 📺 Latest YouTube Videos
@@ -53,7 +38,15 @@ src="https://img.icons8.com/fluency/48/000000/adobe-illustrator.png" /><img alig
 
 <img align="left" alt="Quippv" src="https://github-readme-stats.vercel.app/api?username=yonkouprogrammer&show_icons=true&hide_border=true" />
 
+### Connect with me:
+[<img align="left" alt="onefig | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/onefig/)
+[<img align="left" alt="Wawan Firgiawan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/wawanfirgiawan "@wawanfirgiawan")
+[<img align="left" alt="wawanfirgiawan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/devhumayun)
+[<img align="left" alt="yonkouprogrammer | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/yonkouprogrammer)
+[<img align="left" alt="developerhumayun | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yonkouprogrammer@gmail.com)
+
+<br />
+
 <!---
-Yonkou-Programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Yonkou-Programmer is a ✨ special ✨ repository.
 --->
